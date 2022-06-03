@@ -4,9 +4,11 @@
   display: flex;
 }
 .left-links {
+  display: flex;
   justify-content: left;
 }
 .right-links {
+  display: flex;
   justify-content: right;
 }
 .logo {
