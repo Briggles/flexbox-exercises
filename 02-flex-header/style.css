@@ -4,10 +4,10 @@
   display: flex;
 }
 .left-links {
-
+  justify-content: left;
 }
 .right-links {
-  
+  justify-content: right;
 }
 .logo {
   font-size: 48px;
@@ -15,6 +15,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  justify-content: center;
 }
 
 ul {
