@@ -1,8 +1,14 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
 }
+.left-links {
 
+}
+.right-links {
+  
+}
 .logo {
   font-size: 48px;
   font-weight: 900;
